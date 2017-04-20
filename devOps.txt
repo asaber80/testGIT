@@ -1,9 +1,10 @@
-scripting (bash - python )
-web servers (nginx or apache)
-version control (git)
-configuration management  (ansible or chef or puppet)
-continuous integration  (jenkins or travis)
-virtualization  (vmware or virtualbox)
-containerization (docker)
-lso maybe vagrant for provisioning on local environment 
-and after all that maybe docket cluster manager like swarm or kubreneteswww
+continuous integration  (jenkins or travis)
+pppp
+and after all that maybe docket cluster manager like swarm or kubreneteswww
+lso maybe vagrant for provisioning on local environment 
+containerization (docker)
+virtualization  (vmware or virtualbox)
+configuration management  (ansible or chef or puppet)
+web servers (nginx or apache)
+version control (git)
+scripting (bash - python )
